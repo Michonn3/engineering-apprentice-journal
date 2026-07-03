@@ -8,6 +8,10 @@ Rather than simply collecting notes or tutorials, I document the questions, ment
 
 My goal is to learn software engineering—not just programming.
 
+## Primary Question
+
+> How did I apply what I learned while building software?
+
 # Why this repository exists
 
 When learning software, I found myself asking questions like:
@@ -22,6 +26,7 @@ This repository is my attempt to answer those questions through real projects.
 
 Every new concpet follows the same process:
 
+0. Classify
 1. Observe
 2. Map
 3. Understand
@@ -30,6 +35,7 @@ Every new concpet follows the same process:
 6. Reflect
 
 For every concept, I ask:
+  - What kind of thing is this?
   - What is it?
   - Why does it exist?
   - What problem does it solve?
@@ -57,3 +63,15 @@ projects/
 # My Goal
 
 I hope this journal helps other developers who aren't just asking "How do I write this code?" but also "Why was this software designed this way?"
+
+## Version Roadmap
+
+### Version 1
+Document the purpose of project journals.
+
+### Version 2
+Create a folder for each software project.
+
+### Version 3
+Include architecture, design decisions, lessons learned, and retrospectives for every project.
+

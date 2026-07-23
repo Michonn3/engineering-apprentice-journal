@@ -2,15 +2,30 @@
 
 # Welcome
 
-This repository documents my journey from learning how to code to understanding how software systems are designed. 
+This repository documents my journey as an early-career software engineer. 
+
+I use real software projects to explore how systems are designed, why engineering decisions are made, and the tradeoffs behind the technology. 
 
 Rather than simply collecting notes or tutorials, I document the questions, mental models, design decisions, and engineering principles I discover while building real software. 
 
 My goal is to learn software engineering—not just programming.
 
+## Who This Repository Is For
+
+This repository is for curious developers who want to understand not only how software work, but why it is designed the way it is.
+
+If you've ever asked questions like:
+
+- Why do we use REST APIs?
+- Why do frameworks exist?
+- Why do engineers organize code into layers?
+- What tradeoffs are being made?
+
+Then you'll probably feel right at home here.
+
 ## Primary Question
 
-> How did I apply what I learned while building software?
+> How do software systems work, and why were they designed this way?
 
 # Why this repository exists
 
@@ -63,15 +78,4 @@ projects/
 # My Goal
 
 I hope this journal helps other developers who aren't just asking "How do I write this code?" but also "Why was this software designed this way?"
-
-## Version Roadmap
-
-### Version 1
-Document the purpose of project journals.
-
-### Version 2
-Create a folder for each software project.
-
-### Version 3
-Include architecture, design decisions, lessons learned, and retrospectives for every project.
 

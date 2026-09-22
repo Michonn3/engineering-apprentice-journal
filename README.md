@@ -4,7 +4,6 @@
 This repository documents my journey as an early-career software engineer. I use real software projects to explore how systems are designed, why engineering decisions are made, and the tradeoffs behind the technology. Rather than simply collecting notes or tutorials, I document the questions, mental models, design decisions, and engineering principles I discover while building real software. My goal is to learn software engineering—not just programming. At the center of that journey is one question:
 </p>
 
-
 ## Primary Question
 How do software systems work, and why were they designed this way?
 
@@ -34,25 +33,25 @@ This repository is my attempt to answer those questions through real projects.
 
 Every new concpet follows the same process:
 
-0. Classify
-1. Observe
-2. Map
-3. Understand
-4. Evaluate
-5. Build
-6. Reflect
+      0. Classify
+      1. Observe
+      2. Map
+      3. Understand
+      4. Evaluate
+      5. Build
+      6. Reflect
 
 For every concept, I ask:
-  - What kind of thing is this?
-  - What is it?
-  - Why does it exist?
-  - What problem does it solve?
-  - Where does it fit?
-  - What are its inputs?
-  - What are its outputs?
-  - What happens if I remove it?
-  - Why was it designed this way?
-  - What tradeoffs does it make?
+  - *What kind of thing is this?*
+  - *What is it?*
+  - *Why does it exist?*
+  - *What problem does it solve?*
+  - *Where does it fit?*
+  - *What are its inputs?*
+  - *What are its outputs?*
+  - *What happens if I remove it?*
+  - *Why was it designed this way?*
+  - *What tradeoffs does it make?*
 
 ## Repository Structure
 

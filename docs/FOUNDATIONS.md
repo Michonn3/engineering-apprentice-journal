@@ -6,7 +6,7 @@
 
 ## Purpose
 
-Imagine everything i software fitting into a hierarchy. This document is my software taxonomy.
+Imagine everything in software fitting into a hierarchy. This document is my software taxonomy.
 When I encounter a new technology, my first question is:
     - What kind of thing is this?
 Instead of memorizing isolated tools, I classify them into categories so I can understand their responsibilities and relationships.

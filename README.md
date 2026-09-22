@@ -1,4 +1,4 @@
-# engineering-apprentice-journal
+# Engineering Apprentice Journal
 
 # Welcome
 

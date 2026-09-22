@@ -10,47 +10,47 @@ This document traces who talks to whom.
 
 ## Flow: git status
 ```
-    Me
+  **Me**
     ↓
-Terminal
+**Terminal**
     ↓
-   Git
+ **Git**
     ↓
-Local .git folder
+**Local .git folder**
     ↓
-Git reports repository state
+**Git reports repository state**
 ```
 ## Flow: git push
 ```
-    Me
+  **Me**
     ↓
- Terminal
+**Terminal**
     ↓
-   Git
+ **Git**
     ↓
- Internet
+**Internet**
     ↓
- GitHub
+**GitHub**
 ```
 ## Flow: Flutter app talking to backend
 ```
-   User
+ **User**
     ↓
-  Flutter
+**Flutter**
     ↓
-HTTP Request
+**HTTP Request**
     ↓
-  Express
+**Express**
     ↓
-   Route
+**Route**
     ↓
- Controller
+**Controller**
     ↓
-  Model
+**Model**
     ↓
- MongoDB
+**MongoDB**
     ↓
-Response travels back to Flutter
+**Response travels back to Flutter**
 ```
 ## Version Roadmap
 

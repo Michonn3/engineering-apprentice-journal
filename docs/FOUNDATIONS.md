@@ -101,7 +101,7 @@ Examples:
 - MongoDB Atlas
 
 ## Sofware Taxonomy Diagram
-
+```
 Hardware
 |
 |-- CPU
@@ -143,7 +143,7 @@ Libraries
 My Software
 |
 |__ Groceries to Kart
-
+```
 ## Version Roadmap
 
 ### Version 1 - Classification

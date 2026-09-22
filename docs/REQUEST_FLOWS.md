@@ -9,7 +9,7 @@
 This document traces who talks to whom.
 
 ## Flow: git status
-
+```
 Me
 ↓
 Terminal
@@ -51,7 +51,7 @@ Model
 MongoDB
 ↓
 Response travels back to Flutter
-
+```
 ## Version Roadmap
 
 ### Version 1 - Basic Flows

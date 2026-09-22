@@ -1,21 +1,18 @@
-# Engineering Apprentice Journal
+<h1 align="center">Engineering Apprentice Journal</h1>
+<h2 align="center">Welcome</h2>
+<p align="center">
+This repository documents my journey as an early-career software engineer. I use real software projects to explore how systems are designed, why engineering decisions are made, and the tradeoffs behind the technology. Rather than simply collecting notes or tutorials, I document the questions, mental models, design decisions, and engineering principles I discover while building real software. My goal is to learn software engineering—not just programming. At the center of that journey is one question:
+</p>
 
-# Welcome
 
-This repository documents my journey as an early-career software engineer. 
-
-I use real software projects to explore how systems are designed, why engineering decisions are made, and the tradeoffs behind the technology. 
-
-Rather than simply collecting notes or tutorials, I document the questions, mental models, design decisions, and engineering principles I discover while building real software. 
-
-My goal is to learn software engineering—not just programming.
+## Primary Question
+How do software systems work, and why were they designed this way?
 
 ## Who This Repository Is For
 
-This repository is for curious developers who want to understand not only how software work, but why it is designed the way it is.
+This repository is for <strong>curious developers</strong> who want to understand not only how software work, but why it is designed the way it is.
 
 If you've ever asked questions like:
-
 - Why do we use REST APIs?
 - Why do frameworks exist?
 - Why do engineers organize code into layers?
@@ -23,11 +20,7 @@ If you've ever asked questions like:
 
 Then you'll probably feel right at home here.
 
-## Primary Question
-
-> How do software systems work, and why were they designed this way?
-
-# Why this repository exists
+## Why this repository exists
 
 When learning software, I found myself asking questions like:
   - Why does Express exist?
@@ -37,7 +30,7 @@ When learning software, I found myself asking questions like:
 
 This repository is my attempt to answer those questions through real projects.
 
-# How I Learn
+## How I Learn
 
 Every new concpet follows the same process:
 
@@ -61,7 +54,7 @@ For every concept, I ask:
   - Why was it designed this way?
   - What tradeoffs does it make?
 
-# Repository Structure
+## Repository Structure
 
 posts/
   - Engineering articles and reflections
@@ -72,10 +65,10 @@ principles/
 projects/
   - Architecture notes and lessons learned from software projects
 
-# Current Projects
+## Current Projects
   - Groceries to Kart
 
-# My Goal
+## My Goal
 
 I hope this journal helps other developers who aren't just asking "How do I write this code?" but also "Why was this software designed this way?"
 

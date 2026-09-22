@@ -19,9 +19,9 @@ Terminal
 Local .git folder
     ↓
 Git reports repository state
-
+```
 ## Flow: git push
-
+```
     Me
     ↓
  Terminal
@@ -31,9 +31,9 @@ Git reports repository state
  Internet
     ↓
  GitHub
-
+```
 ## Flow: Flutter app talking to backend
-
+```
    User
     ↓
   Flutter
